@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://github.com/VitorMeneses/preloaderJSLottie/blob/main/intro.json',
+        path: 'https://vitormeneses.github.io/preloaderJSLottie/intro.json',
     });
 }
 
